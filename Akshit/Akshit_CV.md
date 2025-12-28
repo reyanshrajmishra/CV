@@ -16,7 +16,6 @@
 
 ## PERSONAL INFORMATION
 
-**Age:** 13  
 **Nationality:** Indian  
 **Languages:** English (Fluent), Hindi (Native)  
 **Operating System:** Linux (Arch Linux) - Daily driver for all development work
