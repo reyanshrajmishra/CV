@@ -7,7 +7,8 @@
 
 **Email:** shield@shieldintelligence.in  
 **Alternative Email:** queriesshield@gmail.com  
-**GitHub:** SHIELD-INTELLIGENCE  
+**GitHub:** iamthehunter1  
+**GitHub (Organization):** SHIELD-INTELLIGENCE  
 **Portfolio:** https://shieldintelligence.in  
 **Location:** India  
 **Languages:** English, Hindi
