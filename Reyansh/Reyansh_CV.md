@@ -24,7 +24,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Experienced Full-Stack Developer and Technical Co-Founder with expertise in building secure, scalable web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security implementation and user authentication systems. Successfully developed and deployed 10+ production applications serving a global user base with 100% uptime. Proven track record in architecting enterprise-grade solutions, implementing end-to-end encryption, and managing complete product lifecycles from concept to deployment.
+Experienced Full-Stack Developer and Technical Co-Founder with expertise in building secure, scalable web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security implementation and user authentication systems. Successfully developed and deployed 10+ production applications serving a global user base with 100% uptime. Proven track record in implementing end-to-end encryption, and managing complete product lifecycles from concept to deployment.
 
 Core competencies include full-stack development, security architecture, real-time systems, cross-platform mobile development, and agile project management.
 
@@ -67,7 +67,7 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 **URL:** https://shield-auth.shieldintelligence.in
 
 **Key Achievements:**
-- Developed enterprise-grade TOTP-based 2FA application from scratch
+- Developed  TOTP-based 2FA application from scratch
 - Implemented AES end-to-end encryption for secure storage of authentication secrets
 - Built real-time OTP generation with countdown timers and auto-refresh
 - Integrated QR code scanning for seamless account setup
@@ -246,7 +246,7 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 
 ### Security Architecture
 - Implemented end-to-end encryption for sensitive data
-- Designed and deployed enterprise-grade 2FA system
+- Designed and deployed 2FA system
 - Created secure key management protocols
 - Established zero-trust security model
 
@@ -285,7 +285,7 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 - Developed and deployed 10+ production-grade applications serving global users
 - Maintained 100% uptime across all deployed applications since launch
 - Achieved zero security breaches through robust security architecture
-- Implemented enterprise-grade 2FA system with end-to-end encryption
+- Implemented 2FA system with end-to-end encryption
 - Built cross-platform authentication system supporting multiple OAuth providers
 - Reduced application load time by 40% through performance optimization
 - Designed and executed complete CI/CD pipeline for automated deployments

@@ -68,7 +68,7 @@ Co-founded and manage operations for a comprehensive suite of web and mobile app
 **URL:** https://shield-auth.shieldintelligence.in
 
 **Key Achievements:**
-- Co-developed enterprise-grade TOTP-based 2FA application
+- Co-developed TOTP-based 2FA application
 - Manage secure authentication deployment and operations
 - Coordinate real-time OTP generation implementation
 - Oversee QR code scanning system functionality
@@ -225,7 +225,7 @@ Co-founded and manage operations for a comprehensive suite of web and mobile app
 - Co-developed and manage 10+ production-grade applications
 - Maintained 100% uptime across all deployed applications since launch
 - Achieved zero security breaches through robust monitoring and security practices
-- Coordinated enterprise-grade 2FA system deployment and operations
+- Coordinated 2FA system deployment and operations
 - Managed cross-platform authentication system across multiple applications
 - Ensured consistent security standards across all projects
 - Implemented and manage automated CI/CD deployment pipeline
