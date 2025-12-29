@@ -24,7 +24,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Experienced Full-Stack Developer and Technical Co-Founder with expertise in building secure, scalable web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security implementation and user authentication systems. Successfully developed and deployed 10+ production applications serving a global user base with 100% uptime. Proven track record in implementing end-to-end encryption and managing full product lifecycles from concept to deployment.
+Experienced Full-Stack Developer and Technical Co-Founder with expertise in building secure, scalable web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security and authentication systems. Successfully developed and deployed 10+ production applications serving a global user base with 100% uptime. Proven track record in implementing end-to-end encryption and managing full product lifecycles from concept to deployment.
 
 Core competencies include full-stack development, security architecture, real-time systems, cross-platform mobile development, and agile project management.
 
