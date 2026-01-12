@@ -26,7 +26,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Experienced Full-Stack Developer and Technical Co-Founder with expertise in building secure, scalable web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security and authentication systems. Successfully developed and deployed 7+ production applications serving a global user base with 100% uptime. Proven track record in implementing end-to-end encryption and managing full product lifecycles from concept to deployment.
+Experienced Full-Stack Developer and Technical Co-Founder with expertise in building robust, high-availability web and mobile applications. Specialized in React, Next.js, Firebase, and cross-platform development with a strong focus on security and authentication systems. Successfully developed and deployed 7+ production applications serving a global user base with 100% uptime. Proven track record in implementing end-to-end encryption and managing full product lifecycles from concept to deployment.
 
 Core competencies include full-stack development, security architecture, real-time systems, cross-platform mobile development, and agile project management.
 
@@ -38,7 +38,7 @@ Core competencies include full-stack development, security architecture, real-ti
 
 **December 2023 - Present**
 
-Co-founded and developed a comprehensive suite of web and mobile applications focused on secure authentication, data management, and real-time operations. Leading all technical architecture, development, and deployment decisions.
+Co-founded and developed a comprehensive suite of web and mobile applications focused on secure authentication, data management, and instantaneous operations. Leading all technical architecture, development, and deployment decisions.
 
 **Key Responsibilities:**
 
@@ -46,7 +46,7 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 - Design and implement security systems including 2FA and AES-based encryption
 - Manage complete product lifecycle from conception through deployment and maintenance
 - Build and deploy cross-platform applications for web and Android
-- Implement real-time data synchronization and database architecture
+- Implement live data synchronization and database architecture
 - Lead technical strategy and development roadmap
 
 ---
@@ -77,7 +77,7 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 
 - Developed  TOTP-based 2FA application from scratch
 - Implemented military-grade E2EE encryption to the Shield-Authenticator for secure storage of authentication secrets
-- Built real-time OTP generation with countdown timers and auto-refresh
+- Built dynamic OTP generation with countdown timers and auto-refresh
 - Integrated QR code scanning for seamless account setup
 - Created multi-account management system supporting unlimited accounts
 - Deployed cross-platform solution (Web and Android) using Capacitor
@@ -398,3 +398,6 @@ Co-founded and developed a comprehensive suite of web and mobile applications fo
 ---
 
 **Last Updated:** December 2025
+
+---
+*uptime measured via netlify
